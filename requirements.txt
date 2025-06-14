@@ -1,0 +1,4 @@
+streamlit
+icalendar
+python-dateutil
+requests
